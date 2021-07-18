@@ -6,7 +6,7 @@
 
 ## Specs:
 | Component | Name |
-|:--- |:---:|:--- |
+|:--- |:---:|
 | Motherboard:  | ASUS MAXIMUS VIII HERO Z170 |
 | CPU: | Intel Core i7-6700K |
 | RAM: | G Skill F4-2400MHz C15 4GB x2 |
