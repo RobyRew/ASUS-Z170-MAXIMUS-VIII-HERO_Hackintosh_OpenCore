@@ -2,6 +2,23 @@
 
 **This guide it will be updated ASAP.**
 
+<!-- shields -->
+<div>
+    <!-- downloads -->
+    <a href="https://github.com/RobyRew/ASUS-Z170-MAXIMUS-VIII-HERO_Hackintosh_OpenCore/releases">
+        <img src="https://img.shields.io/github/downloads/RobyRew/ASUS-Z170-MAXIMUS-VIII-HERO_Hackintosh_OpenCore/total" alt="downloads"/>
+    </a>
+    <!-- version -->
+    <a href="https://github.com/RobyRew/ASUS-Z170-MAXIMUS-VIII-HERO_Hackintosh_OpenCore/releases/latest">
+        <img src="https://img.shields.io/github/release/RobyRew/ASUS-Z170-MAXIMUS-VIII-HERO_Hackintosh_OpenCore.svg" alt="latest version"/>
+    </a>
+    <!-- platform -->
+    <a href="https://github.com/RobyRew/ASUS-Z170-MAXIMUS-VIII-HERO_Hackintosh_OpenCore">
+        <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform"/>
+    </a>
+</div>
+</br></br>
+
 ![ASUS MAXIMUS VIII HERO Z170](Docs/Images/Guide/PC.png)
 
 ## Specs:
