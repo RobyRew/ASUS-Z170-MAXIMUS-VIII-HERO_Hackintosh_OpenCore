@@ -28,7 +28,7 @@
 | CPU: | Intel Core i7-6700K |
 | RAM: | G Skill F4-2400MHz C15 4GB x2 |
 | iGPU: | Intel HD Graphics 530 |
-| dGPU: | GIGABYTE GTX 1070 G1 Gaming |
+| dGPU: | GIGABYTE GTX 1070 G1 Gaming (disabled)|
 | NVMe: | Samsung 970 EVO Plus |
 | SSD: | KINGSTON SV300S37A240G |
 | SSD: | WD WD10EZRZ-00HTKB0 |
